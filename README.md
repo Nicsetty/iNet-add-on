@@ -30,7 +30,7 @@ Go to File -> Import -> Existing Projects into Workspace.
 Select the inet folder and import it as an existing project.
 Build the INET framework by right-clicking on the project and selecting Build Project.
 
-## Add DSDV Project and INET Configuration
+## Add INET Configuration
 After setting up the INET framework, proceed with the DSDV project setup:
 
    1. **Inside the INET framework**:
